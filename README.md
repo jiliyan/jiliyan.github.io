@@ -11,6 +11,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+# 计丽艳的个人主页
+
+## 基本信息
+
+手机号：xxxxxxxxx     邮箱：jiliyan@tongjiedu.cn     现居住地：上海市杨浦区彰武路                            <img src=".\img\证件照.jpg" width="100;" />
+
+
+
+## 个人经历  
+
+
+
+
+
 # 个人经历
 ## Header 2
 ### Header 3
